@@ -18,7 +18,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## gettting the inverse of x  if it is already calculated, or calculate if not the case.
+## getting the inverse of x  if it is already calculated, or calculate if not the case.
 
 cacheSolve <- function(z, ...) {
         ## Return a matrix that is the inverse of 'x'
